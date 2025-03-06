@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.text-xxs {
+
+    font-size: 0.6rem; /* Adjust this value to your desired smaller size */
+    line-height: 0.9rem /* 16px */;
+
+  }
