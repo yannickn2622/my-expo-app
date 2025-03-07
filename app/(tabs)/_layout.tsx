@@ -89,7 +89,7 @@ const TabsLayout = () => {
               <TabIcon
                 icon={icons.profile}
                 color={color}
-                name="Home"
+                name="Profile"
                 focused= {focused}
                 />
           )
